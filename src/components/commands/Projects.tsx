@@ -56,27 +56,27 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Sat Naing's Blog",
-    desc: "My personal blog where I can write down my thoughts and experiences.",
-    url: "https://satnaing.dev/blog/",
+    title: "Algotrader",
+    desc: "An algorithmic trading platform currently under development, the goad is to have an all in one platform that can do backtest, trade with strategy and portfolio risk management",
+    url: "https://github.com/MCLiii/ALGOTrader",
   },
   {
     id: 2,
-    title: "Haru Fashion",
-    desc: "An ecommerce web application where users can browse various products and make purchases.",
-    url: "https://haru-fashion.vercel.app/",
+    title: "Treasure Hunt Bot",
+    desc: "A stm32 and raspberry based computer vision robot that reads treasure maze map and navigate the maze to find the treasure in shortest path",
+    url: "https://github.com/MCLiii",
   },
   {
     id: 3,
-    title: "Haru API",
-    desc: "A RESTful API developed for the Haru fashion ecommerce project.",
-    url: "https://satnaing.github.io/haru-api/",
+    title: "Face Tracking Drone",
+    desc: "A drone remote control system built for Tello, allowing the drone to automatically follow the face in frame",
+    url: "https://github.com/MCLiii/TelloFaceTracking/",
   },
   {
     id: 4,
-    title: "AstroPaper Blog Theme",
-    desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
-    url: "https://astro-paper.pages.dev/",
+    title: "Neural Network Activation Function Research",
+    desc: "An independent research into the most effective activation function for DNN in numerous applications",
+    url: "https://github.com/MCLiii/NeuralNetworkTesting/",
   },
 ];
 
